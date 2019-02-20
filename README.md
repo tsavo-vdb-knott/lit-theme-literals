@@ -9,8 +9,6 @@ import {primaryColor, secondaryColorBackground, inverted} from "lit-theme-litera
 
 class MyElement extends LitElement {
   static get styles() {
-    const __square = square(50);
-
     return css`
       :host {
         ${primaryColor}

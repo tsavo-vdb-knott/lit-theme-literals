@@ -8,7 +8,11 @@ import {
   primaryColorBorder,
   secondaryColorBorder,
   svgPrimaryColor,
-  svgSecondaryColor
+  svgSecondaryColor,
+  primaryColorLighter,
+  primaryColorLighterBackground,
+  secondaryColorLighter,
+  secondaryColorLighterBackground
 } from "./Literals";
 
 export {
@@ -21,5 +25,9 @@ export {
   primaryColorBorder,
   secondaryColorBorder,
   svgPrimaryColor,
-  svgSecondaryColor
+  svgSecondaryColor,
+  primaryColorLighter,
+  primaryColorLighterBackground,
+  secondaryColorLighter,
+  secondaryColorLighterBackground
 };

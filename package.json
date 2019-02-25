@@ -1,6 +1,6 @@
 {
   "name": "lit-theme-literals",
-  "version": "0.0.07",
+  "version": "0.0.09",
   "description": "Theming and Color Helper Literals for LitElements",
   "main": "index.js",
   "scripts": {},
